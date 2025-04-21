@@ -65,7 +65,6 @@ def enroll_student():
         
         # Create new student
         try:
-            # Parse date of birth
             dob = datetime.strptime(data["date_of_birth"], "%Y-%m-%d").date()
             
             new_student = Student(

@@ -30,9 +30,3 @@ The system consists of four microservices:
 - Node.js 14+
 - PostgreSQL
 - MongoDB
-
-## Setting Up Environment Variables
-
-Create a `.env` file in each microservice directory with the following variables (adjust as needed):
-
-### Student Enrollment Service
