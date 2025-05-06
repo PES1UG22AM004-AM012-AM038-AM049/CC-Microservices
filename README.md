@@ -2,6 +2,14 @@
 
 ## Team Name : PES1UG22AM004_012_038_049
 
+Contributers : 
+
+1. B C Samrudh
+2. Abhimanyu Suresh
+3. Aditya G H
+4. Charan S K
+
+
 A microservices-based system for managing course enrollment, registration, user management, and content delivery.
 
 ## Architecture
